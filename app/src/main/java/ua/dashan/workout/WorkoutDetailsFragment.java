@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 //класс для отображения детальной инфы о упражнении
 public class WorkoutDetailsFragment extends Fragment {
-    //Идентификатор комплекса упражнений, выбранного пользователем.
+    //Идентификатор комплекса упражнений, выбранного пользователем.а
 private long workoutId;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
